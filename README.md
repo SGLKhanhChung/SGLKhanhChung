@@ -12,7 +12,7 @@
 </div>
 <br>
 
-<h2 align="center">Version Control</h2>
+<h2 align="center">🗃 Version Control 🗃</h2>
 <br>
 <div align="center">
     <div>
@@ -20,7 +20,7 @@
     </div>
 <br>
 
-<h2 align="center">💾 Databases</h2>
+<h2 align="center">💾 Databases 💾</h2>
 <br>
 <div align="center">
     <div>
