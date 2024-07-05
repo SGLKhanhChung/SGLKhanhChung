@@ -56,8 +56,8 @@
 <h2 align="center">📊 Github Stats 📊</h2>
 <br>
 <div align="center">
-    <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimKhanh14&layout=compact&theme=algolia"/>
-    <img width="434" src="https://github-readme-stats.vercel.app/api?username=KimKhanh14&show_icons=true&theme=algolia" />
+    <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SGLKhanhChung&layout=compact&theme=algolia"/>
+    <img width="434" src="https://github-readme-stats.vercel.app/api?username=SGLKhanhChung&show_icons=true&theme=algolia" />
 </div>
 <br>
 
