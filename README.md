@@ -8,6 +8,7 @@
         <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" height="25" />
         <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" height="25" />
         <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" height="25" />
+        <img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff" alt="XML" height="25" />
     </div>
 </div>
 <br>
@@ -25,6 +26,8 @@
 <div align="center">
     <div>
         <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Micrsoft SQL" height="25" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" height = "25" />
+        <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" alt="SQLite" height = "25" />
     </div>
 <br>
 
@@ -50,6 +53,22 @@
     <img src= "https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" height="25" />
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Tensorflow" height="25"/>
   
+</div>
+<br>
+
+<h2 align="center">🎨 Design 🎨</h2>
+<br>
+<div align="center">
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white" alt="Canva" height="25"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" height="25"/>
+</div>
+<br>
+
+<h2 align="center">🖼️ Frameworks 🖼️</h2>
+<br>
+<div align="center">
+    <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" alt=".NET" height="25"/>
+    <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff" alt="Anaconda" height="25"/>
 </div>
 <br>
 
